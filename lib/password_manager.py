@@ -19,7 +19,7 @@ class PasswordManager(object):
         self.is_read = False
         self.display = display
         self.fingerprint = None
-        self.username = username
+        self.username = _blagoslovenniy_nebozhytelem_
         self.passwords_removed = 0
         self.passlist_path = passlist_path
         self.max_passwords = max_passwords
